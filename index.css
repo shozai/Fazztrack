@@ -1,0 +1,76 @@
+* { padding: 0;
+    margin: 0;
+    } 
+    
+  
+ body {background-image: url(background.jpg);
+    background-size: 100%; 
+width: 1024px;
+height: 1212px;}
+.atas {display: flex;
+justify-content: space-between;
+width: 1355px;
+height: 150px;
+align-items: center;}
+.fazztrack { width: 174px;
+    height: 44px;
+    padding-left: 100px;
+    font-size: 36px;
+font-weight: 700;
+color: white;}
+img { width: 50px;
+height: 50px;
+top: 50px;
+padding-right:  100px; ;}
+header { margin-left: 100px;
+    margin-top: 10px;
+    width: 1150px;
+height: 100px;
+border-bottom: 3px solid white;  
+}
+.paraghrap1 {text-align: center;
+    font-family: 'Rancho', 'cursive'; 
+    font-size: 35px;
+    color: white;
+}
+
+.pilihan { margin-top: 40px;
+    width: 1100px;
+    margin-left: 100px;
+    padding-top: 50px;
+    padding-left: 50px;
+    border: 3px solid orange;
+color: blue;
+
+text-align: justify left;
+height: 250px;
+font-size: 30px;
+background-color: white;
+}
+
+.order {width: 1100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-top: 30px;
+    padding-left: 50px;
+    border: 3px solid orange;
+font-size: 30px;
+height: 200px;
+background-color: white;
+border: 3px solid blue;}
+
+button { width: 1150px;
+    height: 50px;
+margin-left: 100px;
+margin-top: 50px;
+background-color: orange;}
+
+footer { width: 1150px;
+border-top: 3px solid white;
+margin-left: 100px;
+margin-top: 150px;
+text-align:center ;}
+.paraghrap4 {padding-top: 10px; 
+    color: white;
+font-size: 20px;}
+
